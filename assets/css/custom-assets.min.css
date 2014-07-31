@@ -1,0 +1,12 @@
+/*! 
+* Custom Assets for WordPress - v1.0.0
+* 
+* 31-07-2014 2:7:34
+* http://github.com/guihknx/
+* Guilherme Henrique - Copyright (c) 2014 
+* 
+* 
+
+* Licensed MIT  
+*/
+.editor-holder{padding:1em;margin:10px 0 20px;background:#fff;-webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,.1);box-shadow:0 1px 1px 0 rgba(0,0,0,.1)}.editor-holder h3{margin-top:0}.custom-table{width:100%}.custom-table td,.custom-table th{border-bottom:1px solid #eee}.custom-table .sg-example-code{width:25%}.custom-table .sg-example-descrip{width:75%}.custom-table td span{display:block;padding:5px 10px}.demoHeaders{margin-top:2em;clear:both}#dialog_link{padding:.4em 1em .4em 20px;text-decoration:none;position:relative}#dialog_link span.ui-icon{margin:-8px 5px 0 0;position:absolute;left:.2em;top:50%}ul#icons{margin:0;padding:0}ul#icons li{margin:2px;position:relative;padding:4px 0;cursor:pointer;float:left;list-style:none}ul#icons span.ui-icon{float:left;margin:0 4px}.columnbox{height:150px;width:48%;float:left;margin-right:1%}#eq span{height:120px;float:left;margin:15px}.buttonset{margin-bottom:5px}#toolbar{padding:10px 4px}.ui-widget-overlay{position:absolute}#css-editor{min-height:100px}#temp_code{display:none}.scheme-selector{border:2px solid #222;border-radius:3px}.scheme-selector span{padding:2px 7px;min-width:94px}.dark{background:none repeat scroll 0 0 #222;color:#fff}.dark-active{border:2px solid #222}.light-active{border:2px solid #fff}p#remote-css,p#remote-js,textarea#remote-css,textarea#remote-js{display:none}.remove{color:red}.spinner-saving{width:7%;text-align:right}#item-id,#res-type{width:5%}#in-footer,#inline,#options{width:10%}.comfirm-delete-item{display:none}

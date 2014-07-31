@@ -1,0 +1,130 @@
+.editor-holder {
+	padding: 1em;
+	margin: 10px 0 20px;
+	background: white;
+
+	-webkit-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.1);
+	box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.1);
+}
+
+.editor-holder h3 {
+	margin-top: 0;
+}
+
+.custom-table {
+	width: 100%;
+}
+
+.custom-table th, .custom-table td {
+	border-bottom: 1px solid #eee;
+}
+
+.custom-table .sg-example-code {
+	width: 25%;
+}
+.custom-table .sg-example-descrip {
+	width: 75%;
+}
+
+.custom-table td span {
+	display: block;
+	padding: 5px 10px;
+}
+
+.demoHeaders {
+	margin-top: 2em;
+	clear: both;
+}
+#dialog_link {
+	padding: .4em 1em .4em 20px;
+	text-decoration: none;
+	position: relative;
+}
+#dialog_link span.ui-icon {
+	margin: 0 5px 0 0;
+	position: absolute;
+	left: .2em;
+	top: 50%;
+	margin-top: -8px;
+}
+ul#icons {
+	margin: 0;
+	padding: 0
+}
+ul#icons li {
+	margin: 2px;
+	position: relative;
+	padding: 4px 0;
+	cursor: pointer;
+	float: left;
+	list-style: none;
+}
+ul#icons span.ui-icon {
+	float: left;
+	margin: 0 4px
+}
+.columnbox {
+	height: 150px;
+	width: 48%;
+	float:left;
+	margin-right: 1%;
+}
+#eq span {
+ 	height:120px;
+ 	float:left;
+ 	margin:15px;
+ }
+.buttonset {
+	margin-bottom: 5px;
+}
+#toolbar {
+	padding: 10px 4px;
+}
+.ui-widget-overlay {
+	position: absolute;
+}
+#css-editor{
+	min-height: 100px;
+}
+#temp_code{
+	display: none;
+}
+.scheme-selector{
+	border:2px solid #222;
+	border-radius: 3px;
+}
+.scheme-selector span{
+	padding: 2px 7px;
+	min-width: 94px;
+}
+.dark{
+	background: none repeat scroll 0% 0% #222;
+	color: #fff;
+}
+.dark-active{
+	border:2px solid #222;
+}
+.light-active{
+	border:2px solid #fff;
+}
+textarea#remote-js, textarea#remote-css,p#remote-js, p#remote-css{
+	display: none;
+}
+.remove{
+	color:red;
+}
+.spinner-saving{
+	width: 7%;
+	text-align:right;
+}
+#item-id, #res-type{
+	width: 5%;
+
+}
+#options, #in-footer, #inline {
+	width: 10%;
+}
+.comfirm-delete-item{
+	display: none;
+}
+
